@@ -1,2 +1,2 @@
-# Monster-Chase-Game
-Monster Chase is my first android game made in unity !
+# Night-Runner-Game
+Night Runner is my first android game made in unity !
